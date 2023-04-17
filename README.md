@@ -5,7 +5,7 @@ The 2014 King James Textus Receptus (KJTR) text was created by Alan Bunning for 
 
 <h2>License</h2>
 <img alt='Creative Commons License' src="https://licensebuttons.net/l/by/4.0/88x31.png" width="88" height="31"/>
-Copyright © 2014 by Alan Bunning released under the <a rel=license href=http://creativecommons.org/licenses/by/4.0/>Creative Commons Attribution 4.0 International License (CC BY 4.0)</a>. Attribution must be given to Alan Bunning and the <a href=http://greekcntr.org>Center for New Testament Restoration</a>.
+Copyright © 2014 by Alan Bunning released under the <a rel=license href=http://creativecommons.org/licenses/by/4.0/>Creative Commons Attribution 4.0 International License (CC BY 4.0)</a>. Attribution must be given to Alan Bunning and the <a href=http://greekcntr.org>Center for New Testament Restoration</a>, and any derivative work must likewise require that this attribution be included along with their own in any subsequent derivative works.
 
 <h2>Citation</h2>
 Bunning, Alan, ed. <i>King James Textus Receptus Greek New Testament</i>. Center for New Testament Restoration. 2014.
